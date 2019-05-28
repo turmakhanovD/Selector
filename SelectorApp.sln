@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectorApp", "SelectorApp\SelectorApp.csproj", "{ED6B4A04-760A-4E03-B8E0-17B80D433726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6B4A04-760A-4E03-B8E0-17B80D433726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6B4A04-760A-4E03-B8E0-17B80D433726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6B4A04-760A-4E03-B8E0-17B80D433726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6B4A04-760A-4E03-B8E0-17B80D433726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801430BB-BE38-4497-B3D7-5B63B0339E13}
+	EndGlobalSection
+EndGlobal
