@@ -1,0 +1,6 @@
+c:\users\турмаханд\source\repos\DownloadCS\DownloadCS\bin\Debug\DownloadCS.exe.config
+c:\users\турмаханд\source\repos\DownloadCS\DownloadCS\bin\Debug\DownloadCS.exe
+c:\users\турмаханд\source\repos\DownloadCS\DownloadCS\bin\Debug\DownloadCS.pdb
+c:\users\турмаханд\source\repos\DownloadCS\DownloadCS\obj\Debug\DownloadCS.csproj.CoreCompileInputs.cache
+c:\users\турмаханд\source\repos\DownloadCS\DownloadCS\obj\Debug\DownloadCS.exe
+c:\users\турмаханд\source\repos\DownloadCS\DownloadCS\obj\Debug\DownloadCS.pdb
