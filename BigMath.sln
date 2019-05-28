@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigMath", "BigMath\BigMath.csproj", "{A960389E-CF47-4167-8303-A6C00CF8794C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A960389E-CF47-4167-8303-A6C00CF8794C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A960389E-CF47-4167-8303-A6C00CF8794C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A960389E-CF47-4167-8303-A6C00CF8794C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A960389E-CF47-4167-8303-A6C00CF8794C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5DD2429-B51F-4B8C-804F-D47508FB7C87}
+	EndGlobalSection
+EndGlobal

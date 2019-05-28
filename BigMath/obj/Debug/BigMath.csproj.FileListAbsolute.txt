@@ -1,0 +1,6 @@
+c:\users\турмаханд\source\repos\BigMath\BigMath\bin\Debug\BigMath.exe.config
+c:\users\турмаханд\source\repos\BigMath\BigMath\bin\Debug\BigMath.exe
+c:\users\турмаханд\source\repos\BigMath\BigMath\bin\Debug\BigMath.pdb
+c:\users\турмаханд\source\repos\BigMath\BigMath\obj\Debug\BigMath.csproj.CoreCompileInputs.cache
+c:\users\турмаханд\source\repos\BigMath\BigMath\obj\Debug\BigMath.exe
+c:\users\турмаханд\source\repos\BigMath\BigMath\obj\Debug\BigMath.pdb
